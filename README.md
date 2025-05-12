@@ -1,4 +1,3 @@
-# CustomObjectDetection
 A simple VQA model made just for learning and researching with new techniques.
 
 ---
