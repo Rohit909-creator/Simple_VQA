@@ -1,4 +1,4 @@
-A simple VQA model made just for learning and researching with new techniques.
+A simple *VQA model* made just for learning and researching with new techniques.
 
 ---
 
@@ -10,3 +10,5 @@ when there is more stable model with good accuracy I will attach link to the mod
 ```bash
 python Model.py
 ```
+
+**Follow this link to get the model weights**: [https://drive.google.com/drive/folders/1dtlP1PW2LMWeL7F3n5bsqPfCaucClVEh?usp=sharing]
